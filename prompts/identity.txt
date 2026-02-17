@@ -1,0 +1,27 @@
+Create an IDENTITY.md file that describes how an AI agent appears to the
+world for the Openclaw framework.
+
+Context:
+- The agent represents: ${who}
+- The agent's objective: ${objective}
+- Target audience: ${audience}
+- Audience location/region: ${location}
+
+The identity document must include ALL of the following:
+1. **Name** — a fitting first and last name for the agent.
+2. **Pronouns** — appropriate pronouns.
+3. **Nicknames** — any informal names users might call the agent.
+4. **Physical Appearance** — a vivid description of how the agent looks
+   (as an avatar or visual persona).
+5. **Voice Tone & Accent** — how the agent sounds, including accent
+   considerations for ${location}.
+6. **Other Defining Characteristics** — any mannerisms, catchphrases,
+   or immediately recognizable traits.
+
+Synthesize the ideal identity from ALL the context above — consider who
+the agent represents, what it does, who it talks to, and where those
+people are located. The identity should feel approachable and trustworthy
+to ${audience} in ${location}.
+
+Format the output as a well-structured Markdown document with clear
+sections and headings starting with a top-level "# Identity" heading.

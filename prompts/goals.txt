@@ -1,0 +1,19 @@
+Create a GOALS.md file that describes finite, actionable steps for an AI
+agent to accomplish its objective, for the Openclaw framework.
+
+Context:
+- The agent represents: ${who}
+- The agent's objective: ${objective}
+- Target audience: ${audience}
+- Audience location/region: ${location}
+
+Requirements:
+1. Break down the objective into clear, sequential steps the agent should
+   follow during each interaction.
+2. Each step should be concrete and measurable where possible.
+3. Include success criteria or indicators for each step.
+4. Consider the audience and location when framing the steps (e.g.,
+   cultural nuances, expectations).
+5. Include both primary goals and fallback/secondary goals.
+6. Format the output as a well-structured Markdown document with clear
+   sections and headings starting with a top-level "# Goals" heading.

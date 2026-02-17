@@ -1,0 +1,20 @@
+Create a USER.md file that describes who the AI agent is trying to help,
+for the Openclaw framework.
+
+Context:
+- The agent represents: ${who}
+- The agent's objective: ${objective}
+- Target audience: ${audience}
+- Audience location/region: ${location}
+
+The document should describe the ideal user persona the agent will be
+interacting with. Include:
+1. Who they are (demographics, role, background).
+2. Their typical needs, pain points, and motivations.
+3. How they prefer to communicate and be communicated with.
+4. What success looks like from the user's perspective.
+5. Common scenarios or situations they may be in when contacting the agent.
+
+Focus on creating an empathetic, detailed picture so the agent can better
+serve them. Format the output as a well-structured Markdown document with
+clear sections and headings starting with a top-level "# User" heading.

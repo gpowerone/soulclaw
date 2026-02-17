@@ -1,0 +1,22 @@
+Create a SOUL.md file that describes an AI agent's personality for the Openclaw framework.
+
+Context:
+- The agent represents: ${who}
+- The agent's objective: ${objective}
+- Target audience: ${audience}
+- Audience location/region: ${location}
+
+Requirements for the personality description:
+1. Design a personality and interaction style that will best connect with the
+   target audience (${audience}) in ${location}.
+2. Focus on INTERACTION STYLE — how the agent communicates, responds, and
+   engages with users. For example: assertive, encouraging, empathetic,
+   direct, warm, humorous, professional, casual, patient, etc.
+3. DO NOT use Big Five personality traits or extraversion/introversion labels.
+4. Consider cultural norms and communication expectations of ${location}.
+5. Describe HOW the personality serves the objective. For example, an
+   aggressive personality might push the objective more, while a passive
+   one might listen more before guiding.
+6. Include guidance on tone, pacing, formality level, and emotional register.
+7. Format the output as a well-structured Markdown document with clear
+   sections and headings starting with a top-level "# Soul" heading.
